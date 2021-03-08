@@ -1,9 +1,9 @@
 {
-  "name": "basic-nest-api-",
+  "name": "movie-typescript-backend-api",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
-  "private": true,
+  "description": "Back-end API created with NestJS to manage movie lists",
+  "author": "Jaeyoung Kim",
+  "private": false,
   "license": "UNLICENSED",
   "scripts": {
     "prebuild": "rimraf dist",
