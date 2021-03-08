@@ -30,4 +30,10 @@ $ npm run test
 $ npm run test:e2e
 ```
 
-##### Unit and E2E test completed.
+##### Unit test completed.
+
+<img src="./image/unit-test.png" alt="unit-test"/>
+
+##### E2E test completed.
+
+<img src="./image/e2e-test.png" alt="e2e-test"/>
